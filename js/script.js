@@ -183,7 +183,7 @@
         document.querySelector("#container").remove();
         let datos = `<div id="container">
         <div id="description">
-            <img class="descriptionChild" src="./img/X.png" alt="AboutMe Image"/>
+            <img class="descriptionChild" src="./img/profile gif.gif" alt="AboutMe Image"/>
             <div class="descriptionChild">
                 <p>Hi, my name is Josep Paya Rubio and this is my pet dragon Gus.</p><br/>
                 <p>We are 21 and 87 years old, and we live in Spain.</p><br/>
