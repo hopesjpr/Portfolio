@@ -137,25 +137,25 @@
         let datos = `<div id="container">
         <section class="gallery">
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Stand_Alone__Scene _Concept_art.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Characters_for_a_Cozy_Gif_Design_Sheet.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Monsters_designs.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Mansion_Enviroment_Concept_Art.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Scene_Concept_Art_for_a_personal_project.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Character_Concept_Art.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Characters_Design_Sheet.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
                 <img class="gallerySource" src="./img/X.png" alt="Image Element">
@@ -183,11 +183,11 @@
         document.querySelector("#container").remove();
         let datos = `<div id="container">
         <div id="description">
-            <img class="descriptionChild" src="./img/profile gif.gif" alt="AboutMe Image"/>
+            <img class="descriptionChild" src="./img/Gif_de_perfil.gif" alt="AboutMe Image"/>
             <div class="descriptionChild">
                 <p>Hi, my name is Josep Paya Rubio and this is my pet dragon Gus.</p><br/>
-                <p>We are 21 and 87 years old, and we live in Spain.</p><br/>
-                <p>We work as 2D Animators. As a team i do all the work and Gus gets a nap or eat a postman as snack.
+                <p>We are 21 years old, and we live in Spain.</p><br/>
+                <p>We work as 2D Animators. As a team I do all the work and Gus gets a nap or eat a postman as snack.
                     Sometimes he gives good ideas.</p><br/>
                 <p>Student of Fine Arts at the UPV.</p>
             </div>
@@ -205,9 +205,9 @@
             <h2>Experience</h2>
             <div>
                 <h3>Working experience:</h3>
-                <p>Cleanup in student's short films from the Animation Master of the UPV. &laquo;Chimborazos&raquo; and &laquo;Encara dura&raquo;</p>
+                <p>Cleanup in student's short films from the Animation Master of the UPV. &laquo;Chimborazo&raquo; and &laquo;Encara dura&raquo;</p>
                 <h3>Skills:</h3>
-                <p>Advanged Skills in Bloom Toon, Harmony, Photoshop and Adobe Premiere</p>
+                <p>Advanced Skills in Toon Boom Harmony, Photoshop and Adobe Premiere</p>
                 <p>Basic Skills in Clip Studio and After Effects</p>
             </div>
         </div>
