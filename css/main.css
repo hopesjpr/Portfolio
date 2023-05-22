@@ -136,14 +136,12 @@ nav li:hover {
   }
   100% {
     width: 450px;
-    height: 450px;
   }
 }
 
 @keyframes reduccionVideoChild {
   0% {
     width: 450px;
-    height: 450px;
   }
   100% {
     width: 0px;
