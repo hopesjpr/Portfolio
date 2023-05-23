@@ -64,7 +64,7 @@
         document.querySelector("#container").remove();
         let datos = `<div id="container">
         <div id="videoReel">
-        <video src="./video/Reel_2023_Provisional.mp4" width="70%" controls>
+        <video src="./video/Reel_2023.mp4" width="70%" controls>
             Your browser does not support the video tag.
         </video>
         <p>Animation Demo Reel 2023</p>
@@ -164,7 +164,7 @@
                 <img class="gallerySource" src="./img/X.png" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/blank_space.jpg" alt="Image Element">
             </div>
             </div>
         </section>
