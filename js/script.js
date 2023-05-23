@@ -76,7 +76,7 @@
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Profile_Gif.mp4">
+                <video class="gallerySource" src="./video/Prime_the_Animation_10_GIF.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
