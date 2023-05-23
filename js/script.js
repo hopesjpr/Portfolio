@@ -81,42 +81,42 @@
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/Megaman_FanAnimation.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/Magic_themed_animation_GIF.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/Prime_the_Animation_9_GIF.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/blank_video.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/blank_video.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/blank_video.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/blank_video.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Reel_2023_Provisional.mp4">
+                <video class="gallerySource" src="./video/blank_video.mp4">
                     Your browser does not support the video tag.
             </video>
             </div>
@@ -152,16 +152,16 @@
                 <img class="gallerySource" src="./img/Scene_Concept_Art_for_a_personal_project.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/Character_Concept_Art.jpg" alt="Image Element">
+                <img class="gallerySource" src="./img/blank_space.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
                 <img class="gallerySource" src="./img/Characters_Design_Sheet.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Character_Concept_Art.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/X.png" alt="Image Element">
+                <img class="gallerySource" src="./img/Scene_Concept_Art.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
                 <img class="gallerySource" src="./img/blank_space.jpg" alt="Image Element">
