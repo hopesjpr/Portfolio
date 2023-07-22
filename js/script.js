@@ -184,13 +184,13 @@
         let datos = `<div id="container">
         <div id="description">
             <img class="descriptionChild" src="./img/Gif_de_perfil.gif" alt="AboutMe Image"/>
-            <div class="descriptionChild">
-                <a href="https://drive.google.com/file/d/1MStFOXoRMGwDE4rm4tTSnrO-OkgkdzvI/view?usp=drive_link">Resume / CV</a>               
+            <div class="descriptionChild">                              
                 <p>Hi, my name is Josep Paya Rubio and this is my pet dragon Gus.</p><br/>
                 <p>We are 21 years old, and we live in Spain.</p><br/>
                 <p>We work as 2D Animators. As a team I do all the work and Gus gets a nap or eat a postman as snack.
                     Sometimes he gives good ideas.</p><br/>
                 <p>Former student of Fine Arts at the UPV.</p>
+                <a href="https://drive.google.com/file/d/1MStFOXoRMGwDE4rm4tTSnrO-OkgkdzvI/view?usp=drive_link">Resume / CV</a> 
             </div>
         </div>
         <div class="aboutmeElement">
