@@ -209,7 +209,7 @@
                 <p>Cleanup in student's short films from the Animation Master of the UPV. &laquo;Chimborazo&raquo; and &laquo;Encara dura&raquo;</p>
                 <h3>Skills:</h3>
                 <p>Advanced Skills in Toon Boom Harmony, Photoshop and Adobe Premiere</p>
-                <p>Basic Skills in Clip Studio and After Effects</p>
+                <p>Basic Skills in Clip Studio, Blender Grease Pencil and After Effects</p>
             </div>
         </div>
         <div class="aboutmeElement">
