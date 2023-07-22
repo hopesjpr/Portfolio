@@ -91,7 +91,7 @@
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/Prime_the_Animation_9_GIF.mp4">
+                <video class="gallerySource" src="./video/animación y diseño de personajes en un videojuego.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -152,7 +152,7 @@
                 <img class="gallerySource" src="./img/Scene_Concept_Art_for_a_personal_project.jpg" alt="Image Element">
             </div>
             <div class="galleryItem">
-                <img class="gallerySource" src="./img/blank_space.jpg" alt="Image Element">
+                <img class="gallerySource" src="./img/Turnaround_Animado.gif" alt="Image Element">
             </div>
             <div class="galleryItem">
                 <img class="gallerySource" src="./img/Characters_Design_Sheet.jpg" alt="Image Element">
