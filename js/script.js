@@ -190,7 +190,7 @@
                 <p>We are 21 years old, and we live in Spain.</p><br/>
                 <p>We work as 2D Animators. As a team I do all the work and Gus gets a nap or eat a postman as snack.
                     Sometimes he gives good ideas.</p><br/>
-                <p>Student of Fine Arts at the UPV.</p>
+                <p>Former student of Fine Arts at the UPV.</p>
             </div>
         </div>
         <div class="aboutmeElement">
