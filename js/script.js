@@ -91,7 +91,7 @@
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/animacion_y_diseño_de_personajes_en_un_videojuego.mp4">
+                <video class="gallerySource" src="./video/animation_and_design_of_characters_for_a_videogame.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
