@@ -91,7 +91,7 @@
                 </video>
             </div>
             <div class="galleryItem">
-                <video class="gallerySource" src="./video/animación y diseño de personajes en un videojuego.mp4">
+                <video class="gallerySource" src="./video/animacion_y_diseño_de_personajes_en_un_videojuego.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -185,8 +185,7 @@
         <div id="description">
             <img class="descriptionChild" src="./img/Gif_de_perfil.gif" alt="AboutMe Image"/>
             <div class="descriptionChild">
-                <a href="https://drive.google.com/file/d/1MStFOXoRMGwDE4rm4tTSnrO-OkgkdzvI/view?usp=drive_link" class= "Resume / CV"></a>
-                <a>Resume / CV <"https://drive.google.com/file/d/1MStFOXoRMGwDE4rm4tTSnrO-OkgkdzvI/view?usp=drive_link">
+                <a href="https://drive.google.com/file/d/1MStFOXoRMGwDE4rm4tTSnrO-OkgkdzvI/view?usp=drive_link" class= "Resume / CV"></a>               
                 <p>Hi, my name is Josep Paya Rubio and this is my pet dragon Gus.</p><br/>
                 <p>We are 21 years old, and we live in Spain.</p><br/>
                 <p>We work as 2D Animators. As a team I do all the work and Gus gets a nap or eat a postman as snack.
